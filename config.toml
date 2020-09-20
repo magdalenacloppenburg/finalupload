@@ -40,17 +40,17 @@ disqusShortname = ""
   [params.navigation]
     title = "MAM 2021 Student at LBS"
     #subtitle = "By HTML5 Up"
-    menu = "Menu"
+   # menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
-    [[params.navigation.links]]
-      name = "Home"
-      url = "#"
+    #[[params.navigation.links]]
+    #  name = "Home"
+    #  url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
-      url = "blogs"
+      name = "LinkedIn"
+      url = "https://www.linkedin.com/in/magdalena-cloppenburg"
 
    # [[params.navigation.links]]
    #   name = "Generic Blog"
@@ -68,9 +68,9 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
  # Button Style 1
-    [[params.navigation.button1]]
-      name = "My projects"
-      url = "blogs"
+  #  [[params.navigation.button1]]
+   #   name = "My projects"
+    #  url = "blogs"
 
     # Button Style 2
   #  [[params.navigation.button2]]
