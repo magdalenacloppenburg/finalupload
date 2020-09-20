@@ -117,11 +117,11 @@ disqusShortname = ""
       image = "bike.jpg"
       url = "blogs/blog8"
 
-    [[params.tiles.showcase]]
-      title = "Game of Thrones"
-      subtitle = "A brief analysis of ratings, directors, and running time"
-      image = "got.jpg"
-      url = "blogs/blog9"
+    #[[params.tiles.showcase]]
+      #title = "Game of Thrones"
+     # subtitle = "A brief analysis of ratings, directors, and running time"
+      #image = "got.jpg"
+     # url = "blogs/blog9"
 
    # [[params.tiles.showcase]]
       #title = "Etiam"
