@@ -38,7 +38,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Magdalena"
+    title = "MAM 2021 Student at LBS"
     #subtitle = "By HTML5 Up"
     menu = "Menu"
     # Optional logo as brand stored in img/
@@ -100,34 +100,34 @@ disqusShortname = ""
       
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
+      title = "Predicting Airbnb Prices"
+      subtitle = "A regression model for a 4-night stay in Munich"
+      image = "airbnb.jpg"
+      url = "blogs/blog6"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
+      title = "COVID-19 mortality"
+      subtitle = "An analysis of death rates"
+      image = "covid.jpg"
+      url = "blogs/blog7"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+      title = "London Bike Rentals (Santander)"
+      subtitle = "How does bike usage vary throughout the year(s)?"
+      image = "bike.jpg"
+      url = "blogs/blog8"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+      title = "Game of Thrones"
+      subtitle = "A brief analysis of ratings, directors, and running time"
+      image = "got.jpg"
+      url = "blogs/blog9"
 
-    [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+   # [[params.tiles.showcase]]
+      #title = "Etiam"
+     # subtitle = "Feugiat Amet Tempus"
+     # image = "pic06.jpg"
+     # url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
